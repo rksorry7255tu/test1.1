@@ -1,0 +1,26 @@
+nav{
+    border:1px solid black;
+}
+
+marquee{
+    height:30px;
+    background-color: pink;
+    margin-top: 5px;
+   
+}
+#carouselExampleSlidesOnly{
+    border:1px solid black;
+    margin-left:5px;
+    margin-right: 5px;
+}
+.cart{
+    width:99.2%;
+    height:350px;
+    margin:5px;
+   
+    background-color: pink;
+    display:flex;
+    justify-content:space-around;
+    padding:100px;
+    border:1px solid black;
+}
